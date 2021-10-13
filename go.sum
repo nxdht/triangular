@@ -1,0 +1,4 @@
+github.com/nxdht/decimal v0.0.0-20210427024123-434668ef319b h1:onJMI52hIVOGN6PhOoBoaM3IIFArV2QgAXrk7TR4eyk=
+github.com/nxdht/decimal v0.0.0-20210427024123-434668ef319b/go.mod h1:ZJZqRPkvzZtrj4Y9XlDN96hOiUtlMzXBfK0Of03Wz40=
+github.com/nxdht/fixed v0.0.0-20210427023823-85537619035d h1:RonU5gZM/6hKz9YDI37loIDTnTqVy6DEd4R0aN8Cccg=
+github.com/nxdht/fixed v0.0.0-20210427023823-85537619035d/go.mod h1:/MG9TdKJzBOscBLiOmBf5Gi4ijviQZKVOz2op7qDAnU=
